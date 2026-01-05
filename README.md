@@ -5,7 +5,7 @@ This project analyzes customer churn for a telecom company and highlights key fa
 The goal of this dashboard is to help business teams quickly understand churn trends, identify high-risk customer segments, and support smarter retention strategies.
 
 ---
-![Dashboard Preview]()
+## Dashboard Preview <img width="1400" height="800" alt="Image" src="https://github.com/user-attachments/assets/1fb9666a-db01-4904-a276-f3526fe6bea1" />
 
 ## 🎯 Objectives
 
